@@ -1,2 +1,2 @@
 # dlnd_Face_Gen
-Face Generation with DeepGAN
+This project creates faces from a collection of celebrity faces using DeepGAN
